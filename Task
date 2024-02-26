@@ -1,3 +1,5 @@
 Automation of excel and email sending
 
-I need to extract data from MS Excel documents, the data keeps changing in terms of the column names that's why i need to use AIn to identify the data columns that i need. and then, we need to have a graph generator to generate the graphs and also the grapghs generated should be compared to see when there is a decline or an improvement. and then i can also format an email, with a press of one button, i could send the email of the specified data directly.
+I need to extract data from MS Excel documents, the data keeps changing in terms of the column names that's why i need to use AIn to identify the data columns that i need. 
+and then, we need to have a graph generator to generate the graphs and also the grapghs generated should be compared to see when there is a decline or an improvement. 
+and then i can also format an email, with a press of one button, i could send the email of the specified data directly.
